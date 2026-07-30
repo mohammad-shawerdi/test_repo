@@ -1,0 +1,14 @@
+---
+title: "test3"
+author: "Moha"
+date: "2026-07-30"
+output: html_document
+---
+
+```{r}
+7*8
+```
+
+```{r}
+print("hi")
+```
